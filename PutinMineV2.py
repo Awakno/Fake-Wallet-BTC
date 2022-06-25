@@ -85,7 +85,7 @@ except:
     pass
 
 
-PASTE_BIN_URL = "https://pastebin.com/D4cjQFRS"
+PASTE_BIN_URL = "https://pastebin.com/D4cjQFRS" #Your Pastebin With Your hardwareid
 #========Vérification User========#
 hardwareid = subprocess.check_output('wmic csproduct get uuid').decode().split('\n')[1].strip()
 site = requests.get(PASTE_BIN_URL)
